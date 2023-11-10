@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Infrastructer\Infrastructer.csproj" />
+    <ProjectReference Include="..\Infrastructer\Core.csproj" />
   </ItemGroup>
 
 </Project>

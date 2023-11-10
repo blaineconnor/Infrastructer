@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34009.444
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructer", "Infrastructer\Infrastructer.csproj", "{04379511-5828-4147-A513-155A316E10B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Infrastructer\Core.csproj", "{04379511-5828-4147-A513-155A316E10B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamAPI", "SteamAPI\SteamAPI.csproj", "{B4BC30B5-A85E-4791-9BF9-1BCD7A50D3EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SteamAPI", "SteamAPI\SteamAPI.csproj", "{B4BC30B5-A85E-4791-9BF9-1BCD7A50D3EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
